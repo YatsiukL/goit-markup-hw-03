@@ -234,12 +234,7 @@ a {
     background-color: #FFFFFF;
 }
 .team-item {
-    width: calc((100% - 72px) / 4);
-    border-radius: 0 0 4px 4px;
-    padding-top: 120px;
-    padding-bottom: 120px;
-    width: 264px;
-    height: 380px;
+    width: calc((100% - 72px) / 4); 
 }
 
 .portfolio-item {
@@ -258,8 +253,6 @@ a {
 .list-team {
     width: calc((100% - 72px) / 4);
     border-radius: 0 0 4px 4px;
-    width: 264px;
-    height: 380px;
     background: #fff;
 }
 
